@@ -10,6 +10,6 @@
     
     - Session Manager is a fully managed AWS system manager capability. With Session Manager, you can manage your Amazon Elastic Compute Cloud, Amazon EC2 instances, edge devices, on-premise servers, and virtual web machines. Session Manager allows you to specify the amount of time to allow your user to be inactive before the system ends the session. 
     
-    - Amazon Elastic Compute Cloud Amazon EC2 is a web service that provides a virtual  computing capacity to build and host your software systems. 
+    - Amazon Elastic Compute Cloud Amazon EC2 is a web service that provides a resizable  computing capacity to build and host your software systems. 
     
     - IPerf3 is a tool for active measurements of the maximum achievable bandwidth on IP networks. It suppels tuning of various parameters related to timing buffers and protocols. TCP, UDP, SCDP with IP version 4 and IP version 6. For each test, it reports the bandwidth laws and other parameters. 
