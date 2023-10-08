@@ -1,0 +1,713 @@
+
+1)
+You are tasked to determine the capacity requirements for your customer's application on the AWS Cloud.
+
+What is the BEST way to help the customer to stop guessing their capacity needs?
+
+
+Deploy to production and monitor it after launch.
+
+Do a learning need analysis.
+
+Perform a well-architected review.
+
+Do a total cost analysis.
+
+
+2)
+Your business is designing your network infrastructure in AWS and has determined several applications need to be publicly accessible over the internet. The team is creating a public subnet for the applications.
+
+Which option BEST describes a public subnet in AWS?
+
+
+A public subnet is one that routes local traffic inside the Amazon VPC.
+
+A public subnet is one where you must associate an Elastic IP with Amazon EC2 instances.
+
+A public subnet is one that can launch EC2 instances with a public IP address.
+
+A public subnet is one that has a route table entry routing internet traffic to an Internet Gateway.
+
+
+3)
+A game company wants to deploy its new blockbuster game on AWS. The multi-player game runs over the Internet and requires low latency for a smooth gaming experience.
+
+Which aspects should you consider when selecting an AWS Region to deploy the game? (Select TWO)
+
+Amount of IPv6 addresses left in the region
+Geographic proximity to players
+Data residency requirements for personal data of players
+Physical security measures at the AWS data centers
+Total amount of servers in the region
+
+Your company has a Business Intelligence (BI) team and they have been tasked to build a detailed overall cost intelligence dashboard to visualize cost consumption and provide insights into the trends. They need the source data from AWS to build the dashboard.
+
+Which report will provide the source data to build a BI dashboard?
+
+
+Cost and Usage Report
+
+Savings Plan report
+
+AWS Budget report
+
+Reserved Instance report
+
+
+5)
+Your marketing team wants to run a one-day campaign to get some feedback on an upcoming product launch. You need to provision the application on an Amazon EC2 instance and it must function without interruption.
+
+Which type of instance can you use?
+
+
+On-Demand Instance
+
+Reserved instance
+
+Dedicated Instance
+
+Spot Instance
+
+
+6)
+You need a way to visualize how the AWS bill has changed over the last 6 months and determine which services are billing the most.
+
+What AWS tool will MOST easily allow you to see this information?
+
+
+AWS Budgets
+
+AWS Trusted Advisor
+
+AWS Billing
+
+AWS Cost Explorer
+
+
+7)
+You are running critical operations in the cloud and cannot afford any downtime. You need to ensure there is a strong disaster recovery plan in place.
+
+Which pillar of the Well-Architected Framework focuses on workloads performing as intended with quick recovery from any failure?
+
+
+Performance Efficiency
+
+Operational Excellence
+
+Reliability
+
+Sustainability
+
+
+8)
+Your e-commerce website has been experiencing slow load times and high latency, especially for customers in regions that are far away from your server location.
+
+Which AWS service uses Edge Locations to reduce latency?
+
+
+Amazon CloudFront
+
+AWS Direct Connect
+
+AWS CloudTrail
+
+Amazon Elastic Load Balancing
+
+9)
+Your organization is planning to migrate its on-premises infrastructure to the cloud. As part of this move, you want to ensure that the cloud technology you acquire is sustainable and environmentally friendly.
+
+Which is a key sustainability consideration for a successful cloud acquisition strategy?
+
+
+Prioritize the lowest price over sustainability, as cost savings is always the most important consideration.
+
+Prioritize on-premises efficiencies, as cloud computing cannot be sustainable due to the energy consumption required to service millions of customers.
+
+Choose a cloud service provider that focuses on energy efficiency and innovation to reduce its carbon footprint.
+
+Ignore the environmental impact of cloud computing, as it is not a significant factor in sustainability.
+
+
+
+
+
+
+
+10)
+Your company has its main location in the United States and is planning to open another branch in Europe to service its new customers in that region.
+
+What is one benefit of moving to the AWS cloud that can help address the need for continued expansion?
+
+
+Your manager will receive an Amazon Prime membership.
+
+You can stop guessing on your infrastructure capacity needs.
+
+AWS provides better security.
+
+AWS enables you to go global in minutes.
+
+11)
+You have just joined a company that recently migrated from on-premises to the AWS Cloud. Your team is currently focusing on building effective cost optimization and monitoring tools.
+
+Which tool can help identify irregular spend and identify root causes?
+
+
+Cost Explorer
+
+Savings Plans
+
+AWS Budgets
+
+AWS Cost Anomaly detection
+
+12)
+Your CIO has asked you to reduce operational overhead of maintaining a relational database for an application that is running on Amazon EC2 instances.
+
+ 
+
+What are the most appropriate options for running the database? (Select TWO)
+
+Amazon Aurora
+Amazon RDS
+Amazon DynamoDB
+Amazon Redshift
+Amazon Neptune
+
+13)
+Your company is in the discovery phase of moving to the cloud and your CTO wants to know more about how AWS is able to achieve low, pay as you go pricing.
+
+Which of these advantages of cloud computing would you describe?
+
+
+Trade fixed expense for variable expense
+
+Benefit from massive economies of scale
+
+Increase speed and agility
+
+Go global in minutes
+
+An organization is evaluating different aspects to support its AWS Cloud adoption.
+
+Which activity is central to support their decision?
+
+
+Marketing
+
+Procurement
+
+Real Estate
+
+Sales
+
+15)
+Your company wants to migrate their workloads to the AWS Cloud. You are a solutions architect, planning to migrate two virtual machines running only one day per week for a batch job. The batch job is flexible and can be stopped, if needed.
+
+Which is the most cost-effective solution?
+
+
+On demand instances
+
+Run VMware cloud on AWS
+
+Spot instances
+
+Reserved instances
+
+16)
+Your company is planning to move its infrastructure and data to the AWS Cloud.
+
+Who will be responsible for maintaining the integrity of the company data?
+
+
+Security Administrator
+
+DevOps Administrator
+
+System Administrator
+
+AWS
+
+17)
+Your company has decided to migrate its infrastructure to AWS. Most staff are unfamiliar with cloud computing, so your team is looking for assistance with migrating, running, and optimizing your cloud workloads.
+
+What is the BEST approach to take?
+
+
+Seek out any IT provider who has experience working with IT infrastructure.
+
+Purchase from an AWS Partner, who can design, build, maintain, and/or optimize your cloud environment.
+
+Urge your company to push back its migration plan, as there is no way to migrate to the cloud without first implementing a training program.
+
+Purchase directly from AWS, as this is always the easiest and most cost-effective solution.
+
+18)
+Your company is migrating to the AWS Cloud. As the network administrator, you are responsible for managing the physical network in the datacenter.
+
+What cloud role might you transition to that would be the closest fit to your current role?
+
+
+Cloud Architect
+
+DevOps Administrator
+
+Security Administrator
+
+System Administrator
+
+19)
+A company is in the process of adopting cloud technology and wants to ensure a successful cloud acquisition.
+
+Which of the following should they prioritize as the first step in their strategy?
+
+
+Migrate all their existing applications to the cloud.
+
+Understand the different cloud service models available.
+
+Finalize the budget for cloud adoption.
+
+Create a training plan for current employees to learn cloud technology.
+
+20)
+An e-commerce company wants to modernize their infrastructure and move it to the AWS Cloud.
+
+Which option can BEST assist the company to realize these goals?
+
+
+AWS Partner Network (APN)
+
+AWS Artifact
+
+Amazon EC2
+
+AWS App Runner
+
+21)
+Your company is preparing for the holiday shopping season where there will be an increase in traffic and customer orders for its Amazon EC2-hosted applications.
+
+ 
+
+What service can be used to enable optimal availability to handle the increased traffic?
+
+
+Amazon EC2 Auto Scaling
+
+AWS Lambda
+
+Amazon RDS
+
+AWS CloudWatch
+
+22)
+Your company has a monolithic application that experiences bottlenecks and occasional failures.
+
+Which AWS service will provide the MOST flexibility in decoupling the various components of this application?
+
+
+Amazon EC2
+
+Amazon SQS
+
+Amazon S3
+
+Amazon RDS
+
+23)
+Your company has migrated multiple on-premises workloads onto AWS. You have been tasked to assess the cost and usage of AWS services for Fiscal Quarter Q1 and forecast the spend for the next Fiscal Quarter Q2.
+
+Which Business Intelligence (BI) tool would enable you to view and analyze your costs and usage in near real-time free of charge with the LEAST management overhead?
+
+
+AWS Trusted Advisor
+
+AWS Cost Explorer
+
+AWS Billing Dashboard
+
+AWS Budgets
+
+24)
+An organization is looking to expand its presence and revenue in the AWS ecosystem.
+
+Which benefit of joining the Amazon Partner Network (APN) would BEST support this goal?
+
+
+The opportunity to participate in AWS events and receive discounts on AWS services, allowing the organization to increase their exposure and reduce costs
+
+The ability to leverage the AWS global infrastructure, partner programs, and tools to expand market reach and increase revenue
+
+The ability to access AWS certification and competency programs to demonstrate expertise in AWS solutions and differentiate from competitors
+
+Access to AWS technical resources, training, and support to more effectively use AWS services and increase revenue opportunities
+
+25)
+A company wants to be prepared for any unexpected spikes in demand due to the upcoming holiday season. However, they are dependent on their legacy resources and procuring new servers can take a long time. A member on the board suggested moving to the cloud.
+
+What benefit can they achieve by migrating to the cloud with their peak business right around the corner?
+
+
+24x7 access to customer service
+
+With AWS, you can stop guessing capacity and new IT resources are only a click away.
+
+Stop spending money running and maintaining data centers.
+
+AWS personal health dashboard provides personalized view of the health of AWS services, and alerts when your resources are impacted.
+
+26)
+A startup has planned to migrate to the cloud, owing to the high expenses they are facing from their on-premises data center.
+
+What advantage can AWS provide to save costs?
+
+
+Achieve a lower variable cost since AWS provides lower pay-as-you-go prices due to their large customer base.
+
+Implement auto scaling across Amazon EC2 instances.
+
+AWS trains you to employ cost saving mechanisms.
+
+When you setup multiple accounts with AWS Organizations, you are eligible for volume discounts.
+
+Multiple Choice
+27)
+Your company is developing its first application in the cloud. You suggested that the company should leverage the AWS Well-Architected Framework during the process. The CTO is now asking you to provide more details about the framework and its benefits.
+
+Which statement would you use to describe the AWS Well-Architected Framework? (Select TWO)
+
+It is an auditing mechanism that the company must comply prior to deploying into the cloud.It is a requirement for PCI-DSS security standard.It provides a consistent approach to evaluate the application architecture against best practices.It increases the likelihood of business success by helping the organization having constructive conversations.It helps organizations track development process while implementing cloud applications.
+
+28)
+The solutions architect at AnyCompany has been asked by the managers to recommend an approach for reducing costs and improving the security posture of their AWS services usage.
+
+Which set of principles and guidelines should the solutions architect recommend to measure AnyCompany's architecture against best practices to identify areas for improvement in cost optimization and security?
+
+
+AWS Compute Optimizer
+
+AWS Automatically optimizes costs and secure by default.
+
+AWS Well-Architected Framework
+
+AWS Cloud Adoption Framework
+
+29)
+Your company has been operating for several years on a traditional IT infrastructure, which is becoming increasingly more expensive to maintain and scale. Management has expressed interest in moving to the cloud to reduce costs and improve efficiency.
+
+Which is an advantage of moving to the AWS Cloud?
+
+
+Leverage massive economies of scale to achieve lower pay-as-you-go prices.
+
+Decreased speed and agility.
+
+Trade variable expense for fixed expense.
+
+Leverage Amazon Elastic Compute Cloud (Amazon EC2) multi-tenant capabilities to pool and share software licenses with other AWS customers.
+
+30)
+Your customer wants to know how security and compliance is shared between AWS and the customer.
+
+ 
+
+Under the AWS Shared Responsibility Model, what are your suggested shared controls between the customer and AWS? (Select TWO)
+
+Awareness and Training
+Physical and Environmental controls
+Identity and access management
+Data Encryption
+Patch Management
+
+31)
+Your company is hoping to migrate their on-premises infrastructure to AWS. However, in a recent meeting, the CTO expressed concern about controlling and optimizing the cost of cloud resources. You have been tasked with finding a way to control and automate spending in the cloud.
+
+Which AWS service is the most proactive in achieving this goal?
+
+
+AWS Trusted Advisor
+
+AWS Cost and Usage Report
+
+AWS Budgets
+
+AWS Cost Explorer
+
+32)
+Your company is hosting a new application on AWS using Amazon Elastic Compute Cloud (EC2) instances. The application needs to access data stored in Amazon Simple Storage Service (S3), and your manager has asked you to choose the most appropriate role for granting access to Amazon S3 for the EC2 instances.
+
+Which AWS role should be used to grant permissions?
+
+
+AWS Task Role
+
+AWS Instance Role
+
+AWS Web Identity Role
+
+AWS Service Role
+
+33)
+Your colleague wants to create certain Amazon EC2 and Amazon S3 resources in an automated fashion using AWS CloudFormation. However, they reached out to you asking for help to understand pricing.
+
+Which option will provide them with the information they need?
+
+
+You will be priced for Amazon EC2 and Amazon S3 only. The Amazon EC2 pricing will not vary depending on the region.
+
+You will be charged for AWS CloudFormation, Amazon EC2 and Amazon S3. The Amazon EC2 pricing will not vary depending on the region.
+
+AWS will charge for Amazon EC2 and Amazon S3. There is no charge for AWS CloudFormation.
+
+You will be charged for AWS CloudFormation, Amazon EC2 and Amazon S3. The Amazon EC2 pricing will vary depending on the region.
+
+34)
+Your company is considering adopting cloud technology, but your Chief Technology Officer has concerns about data residency and latency issues for certain applications. They would prefer to run these applications on-premises while still being able to take advantage of AWS services and tools such as Amazon EC2.
+
+ 
+
+Which option would BEST fulfill these requirements?
+
+
+Amazon ECS Anywhere
+
+AWS CloudFront
+
+AWS Direct Connect
+
+AWS Outposts
+
+35)
+Your company maintains several legacy applications that are deployed in their on-premises data center. A new business process requires the development of a completely new application for data processing and visualization to leverage modern technologies.
+
+Which strategy should be used for the deployment of this new application?
+
+
+Deploy the new application in the cloud.
+
+Deploy the new application on-premises.
+
+Move all applications to the cloud.
+
+Acquire the new application as service from a third-party vendor.
+
+36)
+A customer is planning to setup a new workload in the AWS Cloud.
+
+Which of the following is a factor to consider when selecting an AWS region for the new workload?
+
+
+Investment in security
+
+Services available within the region
+
+Size of the region
+
+Number of Data Centers in each region
+
+37)
+Your company is migrating its applications from on-premises to Amazon Elastic Compute Cloud (Amazon EC2).
+
+According to the AWS Shared Responsibility Model, which option are you responsible for?
+
+
+Patching the hosts that run the Amazon EC2 instances.
+
+Securing the physical facilities that host AWS services, including Amazon EC2.
+
+Protecting only the applications, and not the operating systems, of the Amazon EC2 instances.
+
+Protecting the applications as well as the operating systems running on the Amazon EC2 instances.
+
+38)
+Your team is tasked with building a new application on AWS and wants to follow best practices for cloud architecture.
+
+Which of the following is a key principle of the AWS Well-Architected Framework?
+
+
+Use a single Amazon Virtual Private Network (Amazon VPC) for all components of the application.
+
+Design for failure.
+
+Build applications using a monolithic architecture.
+
+Store all data on-premises.
+
+
+39)
+A company wants to migrate their on-premises database to Amazon EC2. This database holds data that needs to be accessed quickly and requires high performance.
+
+Which EC2 instance type would be BEST suited for this scenario?
+
+
+Compute optimized instance
+
+Memory optimized instance
+
+Accelerated computing instance
+
+General purpose instance
+
+
+40)
+A company has an on-premises application that runs on virtual machines and uses a relational database in the backend. As the company migrates to the cloud, it is planning to leverage cloud native services.
+
+Which migration strategy is the company adopting in this scenario?
+
+
+Repurchasing
+
+Rehosting
+
+Refactoring
+
+Replatforming
+
+
+41)
+You have been tasked with building out AWS solutions in your organization and need to ensure that the resources being built in your environment are following AWS best practices.
+
+Which service can provide recommendations around those best practices?
+
+
+AWS CloudTrail
+
+AWS Artifact
+
+AWS Trusted Advisor
+
+Amazon CloudFront
+
+42)
+An e-commerce application is hosted in an AWS region. The end users are located in various countries across the globe and they require low latency access to the web application content.
+
+Which AWS service will BEST achieve this goal?
+
+
+Amazon CloudFront
+
+AWS Client VPN
+
+Amazon Route 53
+
+AWS Site-to-Site VPN
+
+
+43)
+For managing permissions in your AWS environment, you are planning to follow the principle of least privilege access.
+
+Which pillar of the AWS Well-Architected Framework describes this principle?
+
+
+Performance Efficiency Pillar
+
+Security Pillar
+
+Reliability Pillar
+
+Operational Excellence Pillar
+
+
+44)
+A cloud network engineer needs to build a resilient network architecture to ensure application scalability and help mitigate DDoS attacks.
+
+ 
+
+Which AWS service will help to meet these goals?
+
+
+NAT gateway
+
+Global Accelerator
+
+Private subnets
+
+AWS Elastic Load Balancer
+
+
+45)
+A company decided to host their new e-commerce application on a fleet of Amazon EC2 instances.
+
+Which AWS service should they use so that the user demands can be evenly distributed across the EC2 instances to ensure high availability?
+
+
+Amazon S3
+
+Application Auto Scaling
+
+Elastic Load Balancing
+
+Amazon EC2 Auto Scaling
+
+
+46)
+Your company is planning to use AWS for hosting its production workloads. Your manager has tasked you with identifying the AWS service to use for configuring user access and permissions.
+
+ 
+
+Which AWS service BEST accomplishes this task?
+
+
+AWS Organizations
+
+AWS Access Control Lists (ACLs)
+
+AWS Identity and Access Management (IAM)
+
+AWS Service Control Policies (SCP)
+
+
+47)
+You are employed at a company that is highly regulated. You are tasked with monitoring operational and risk auditing as well as compliance of your AWS account.
+Which AWS service can help you meet these audit requirements? (Select TWO)
+
+Amazon CloudWatch
+Amazon Trusted Advisor
+Amazon Inspector
+AWS Config
+AWS CloudTrail
+
+
+
+48)
+You are a site reliability engineer for a company that runs an application on an Amazon EC2 instance. You want to get an e-mail notification whenever the average CPU utilization of an instance exceeds 80 percent for more than 15 minutes.
+
+Which AWS service would you use to automatically deliver such notifications? (Select TWO)
+
+Amazon Simple Notification Service (SNS)
+Amazon CloudWatch Alarms
+AWS CloudTrail.
+AWS Trusted Advisor
+Amazon GuardDuty
+
+49)
+To meet security and regulatory requirements, a financial company is required to maintain an on-premises data center, but wants to migrate other non-regulatory operations to the cloud.
+
+What deployment architecture would best suit their needs?
+
+
+On-premises solution
+
+Migrate full operations to the AWS cloud and use Trusted Advisor to ensure regulatory compliance.
+
+AWS Direct Connect
+
+Hybrid Solution
+
+50)
+A solutions architect is working on an online multiplayer game. To support a high-traffic component, they are searching for a highly scalable NoSQL database that provides single-digit millisecond performance.
+
+ 
+
+Which AWS database service would you recommend to meet the requirements?
+
+
+Amazon RDS
+
+Amazon DynamoDB
+
+Amazon Redshift
+
+Amazon S3
+
