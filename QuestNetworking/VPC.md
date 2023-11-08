@@ -15,4 +15,4 @@ Amazon Virtual Private Cloud.
     Using the AWS Management Console, VPC can be quickly and easily created. You spend less time setting up and managing, so you can concentrate on building the applications that run in your VPCs. Customizable. You can easily customize the network configuration of your Amazon VPC. For example, you can create a public facing subnet for your web servers that have access to the internet. You can also place your backend systems, such as databases or application servers in a private facing subnet with no internet access. When you configure VPC to connect to your corporate network, it can serve as an extension of your own data center. 
     
     In addition, VPC can also be connected to other VPCs. Secure Amazon VPC provides multiple layer of advanced security features, such as network access control lists, NACLs and security groups to enable inbound and outbound filtering at the subnet and instance level. In addition, you can store data in Amazon S3 and restrict access so that it's only accessible from instances inside your VPC. 
-    ![Alt text](<Screenshot 2023-09-26 at 1.03.14 PM.png>)
+    
