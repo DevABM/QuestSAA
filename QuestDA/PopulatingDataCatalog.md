@@ -22,3 +22,5 @@ You can use a crawler to populate the data catalog with the metadata tables defi
 - An AWS Glue connection is a data catalog object that stores for a particular data store, login credentials, URI strings, virtual private cloud information and more. 
 - When you add a crawler to the data catalog for an Amazon S3 data store, you can specify an S3 path in your account or another account. 
 - All folders and files contained in the path are crawled. A classifier reads the data in the data store. If you recognize the format of the data, it generates a schema. AWS Glue provides a set of built-in classifiers, but you can also create custom classifiers. 
+- Populating Data Catalog
+- 
